@@ -10,7 +10,7 @@ public class CadAluno {
 	// mas poderia estar em 'Aluno'.
 
 	public CadAluno (String curso, String nome) {// chama as variáveis de string  / PRIVATE --> torna não possível que variáveis dentro dela de serem chamadas.
-		System.out.println(nome + " " + curso + " " + "Cadastrado(a) realizaado com sucesso."); 
+		System.out.println(nome + " " + curso + " " + "Cadastrado(a) realizado com sucesso."); 
 		// Toda vez que um novo aluno for criado essa mensagem será impressa.
 
 	}
